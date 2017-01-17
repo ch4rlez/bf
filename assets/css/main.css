@@ -1160,7 +1160,7 @@
 			}
 
 			h1 {
-				font-size: 2.4em;
+				font-size: 2.2em;
 				letter-spacing: -0.015em;
 			}
 
@@ -1411,11 +1411,11 @@
 
 					#me header > p {
 						position: relative;
-						left: 0;
-						top: 49.5%;
+						left: 27px;
+						top: 51.5%;
 						font-size: 1.5em;
 						letter-spacing: -0.015em;
-						margin-top: 10px;
+						margin-top: 22px;
 					}
 
 		/* Footer */
